@@ -62,6 +62,12 @@ $config = [
             ],
         ],
     ],
+    'modules' => [
+        'shop' => [
+            'class' => 'app\modules\Module',
+            'defaultRoute' => 'index/index',
+        ],
+    ],
     'params' => $params,
 ];
 
