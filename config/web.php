@@ -64,7 +64,7 @@ $config = [
     ],
     'modules' => [
         'shop' => [
-            'class' => 'app\modules\Module',
+            'class' => 'app\modules\shop\Module',
             'defaultRoute' => 'index/index',
         ],
     ],

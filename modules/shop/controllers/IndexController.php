@@ -6,7 +6,7 @@
  * Time: 22:30
  */
 
-namespace app\modules\controllers;
+namespace app\modules\shop\controllers;
 
 use yii\web\Controller;
 
